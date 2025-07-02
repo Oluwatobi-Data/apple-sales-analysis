@@ -82,7 +82,6 @@ Sales leadership, regional managers, marketing, and finance teams.
 ## 📁 Files
 
 - `Apple_2022_Sales_Analysis_Report.pdf` – Executive summary and visuals
-- `Excel_Dashboard.xlsx` – Interactive dashboard with visual insights
 
 ---
 
