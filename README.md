@@ -61,7 +61,7 @@ Sales leadership, regional managers, marketing, and finance teams.
 - **Expense Analysis:** Assesses efficiency by comparing expenses to revenue across regions.
 
 > 📌 *A screenshot of the dashboard*
-> [Dashboard Overview](apple-sales-dashboard.png)
+> ![Dashboard Overview](apple-sales-dashboard.png)
 
 ---
 
