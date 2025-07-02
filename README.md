@@ -50,6 +50,7 @@ Sales leadership, regional managers, marketing, and finance teams.
 ---
 
 ## 📊 Dashboard Overview
+> ![Dashboard Overview](apple-sales-dashboard.png)
 
 **Tool Used:** Microsoft Excel
 
@@ -59,11 +60,6 @@ Sales leadership, regional managers, marketing, and finance teams.
 - **Profit by Product:** Highlights profit contribution per product.
 - **Sales Method Comparison:** Evaluates revenue and profit by channel (e.g., retail vs. online).
 - **Expense Analysis:** Assesses efficiency by comparing expenses to revenue across regions.
-
-> 📌 *A screenshot of the dashboard*
-> ![Dashboard Overview](apple-sales-dashboard.png)
-
----
 
 ## 💡 Final Recommendations
 
